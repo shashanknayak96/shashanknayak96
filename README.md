@@ -27,21 +27,17 @@ My name is Shashank Nayak and I am a <i style="color: #f05237">Fullstack Develop
 
 <h2> Here's what I am currently working on 😵‍💫 </h2>
 
-[![Flutter Catalog](https://github-readme-stats.vercel.app/api/pin/?username=shashanknayak96&repo=flutter_catalog&show_owner=true&theme=swift)](https://github.com/shashanknayak96/flutter_catalog)
-<br/>
+<a href="https://github.com/shashanknayak96/flutter_catalog">
+<img src="https://github.com/shashanknayak96/shashanknayak96/blob/main/flutter_catalog.jpg?raw=true?raw=true" alt="Flutter Catalog App"  style="border-radius: %"> 
+</a>
 
 <h2> What I can work on 🏆</h2>
 <img align="left" alt="Angular" width="30px" src="https://github.com/github/explore/blob/main/topics/dotnet/dotnet.png?raw=true" />
 <img align="left" alt="Angular" width="30px" src="https://github.com/github/explore/blob/main/topics/angular/angular.png?raw=true" />
 <img align="left" alt="React" width="30px" src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" />
-<img align="left" alt="React" width="30px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" />
 <img align="left" alt="React" width="30px" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" />
-
+<img align="left" alt="React" width="30px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" />
+<img align="left" alt="React" width="30px" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" />
+<img align="left" alt="React" width="30px" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" />
 <br/>
 
-<h2> My Stats 🔥 </h2>
-<div style="display:flex;align-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=shashanknayak96&show_icons=true&theme=swift" alt="shashanknayak96" >
-
-<img style="padding-left:20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanknayak96&layout=compact&theme=swift" alt="shashanknayak96">
-</div>
