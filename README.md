@@ -2,8 +2,6 @@
 <img src="https://media4.giphy.com/media/Z1BTGhofioRxK/giphy.gif" width="500" />
 </p>
 
-<p align="center"><img width=500 src="https://readme-typing-svg.herokuapp.com?color=%23F05237&lines=PROGRAMMER%F0%9F%90%9B;LEARNER%F0%9F%93%9A;GAMER%F0%9F%8E%AE&width=380&height=50&center=true&font=Fira%20Code"></p>
-
 <h2>
 Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h2>
